@@ -2,5 +2,6 @@
 
 这是我学习AA-lib这个库的过程
 
-[Download](./download/download.md)
-[Documents](./Documents/toc.md)
+[相关资源下载](./download/download.md)
+
+[库文档](./documents/toc.md)
