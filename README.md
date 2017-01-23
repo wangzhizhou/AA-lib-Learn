@@ -1,6 +1,6 @@
 # AA-lib
 
-这是我学习AA-lib这个库的过程
+`AA-lib`是一个可移植的`ASCII`图形加速(GFX)库
 
 [相关资源下载](./download/download.md)
 
