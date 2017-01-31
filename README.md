@@ -8,7 +8,7 @@
 
 ## 在linux系统上安装AA-lib和BB示例
 
-可以直接使用 `sudo apt-cache search aalib`搜索`AA-lib`的已编译包，搜索结果如下：
+可以直接使用 `sudo apt-cache search aalib`搜索`AA-lib`的已编译包，搜索结果如下：
 
 
 `pi@raspberrypi:~ $ sudo apt-cache search aalib | grep ASCII`
